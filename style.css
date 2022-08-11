@@ -4,8 +4,12 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    color: white;
 }
 input{
     width: 150px;
     height: 50px;
+}
+input:hover{
+    cursor: pointer;
 }

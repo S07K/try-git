@@ -14,7 +14,7 @@ input{
 }
 input:hover{
     cursor: pointer;
-    background: #245673;
+    background: #2d6b8e;
     color: white;
     box-shadow: 0px 2px 8px #1212125d;
 }

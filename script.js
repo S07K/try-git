@@ -8,8 +8,7 @@ function changeColor()
    
     document.querySelector('body').style.backgroundColor=color[i];
     i++;
-    if(i==color.length-1)
-    {
+    if(i==color.length-1) {
         i=0;
     }
 }

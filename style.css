@@ -14,4 +14,6 @@ input{
 }
 input:hover{
     cursor: pointer;
+    background: #245673;
+    color: white;
 }

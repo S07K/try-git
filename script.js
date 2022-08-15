@@ -6,7 +6,7 @@ function changeColor()
 {
     const color=['Red','blue','green','yellow','pink','orange','black','black','gray'];
    
-    document.getElementById('main').style.backgroundColor=color[i];
+    document.querySelector('body').style.backgroundColor=color[i];
     i++;
     if(i==color.length-1)
     {

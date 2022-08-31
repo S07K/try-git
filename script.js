@@ -1,5 +1,5 @@
-
- var i = 0;
+// script.js
+var i = 0;
 document.getElementById("btn").addEventListener('click',changeColor);
 
 function changeColor()
